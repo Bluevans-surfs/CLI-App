@@ -1,0 +1,24 @@
+{
+  "name": "CLI-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+   "start": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluevans-surfs/CLI-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluevans-surfs/CLI-App/issues"
+  },
+  "homepage": "https://github.com/Bluevans-surfs/CLI-App#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
